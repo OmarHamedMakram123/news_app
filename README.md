@@ -1,7 +1,6 @@
 # 📰 NewsApp
 
-![Uploading Shot.png…]()
-
+![Shot](https://github.com/user-attachments/assets/0b0120a9-ac48-447d-b4e4-a22ae0b38a1f)
 
 ## 📱 Features
 - 🗂️ Browse news by category.
